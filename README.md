@@ -46,15 +46,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Modern Layout)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nola77&show_icons=true&theme=radical&hide_border=true" alt="Nola's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nola77&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nola77&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=contribs" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nola77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Nola77&style=flat-square&color=F77D26" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nola77&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nola77&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
