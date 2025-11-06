@@ -10,7 +10,7 @@
 
 ---
 
-### ⚡ Currently Learning / Working On
+### ⚡ Working On
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=F77D26&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+Next.js;Exploring+Spring+Boot+&+MySQL;Learning+Advanced+Frontend+Architecture)
 
 ---
