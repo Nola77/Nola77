@@ -17,26 +17,6 @@ I'm **Dorji (Nola)**, a passionate frontend developer focused on creating deligh
 - 🖥️ **Core strengths:** React, Next.js, TypeScript, modern CSS, Node.js.
 - 🌱 **Currently exploring:** Spring Boot & Java for backend, building full-stack applications.
 
----
-
-## 🚀 Projects & Portfolio
-
-<p align="center">
-  <a href="https://github.com/Nola77/NewsApp" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/NewsApp-Next.js-blue?style=for-the-badge" alt="NewsApp project badge" />
-  </a>
-  <br>
-  <strong>NewsApp:</strong> Real-time news aggregator built with Next.js, fetching APIs and rendering dynamic content.
-  <br>
-  <a href="https://github.com/Nola77/VisaSystem" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/VisaSystem-React-green?style=for-the-badge" alt="VisaSystem project badge" />
-  </a>
-  <br>
-  <strong>VisaSystem:</strong> Full-featured visa application portal with React, including dashboard, forms, and admin panel.
-</p>
-
----
-
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
