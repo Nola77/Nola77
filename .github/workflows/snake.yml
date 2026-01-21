@@ -1,9 +1,9 @@
-name: Generate Snake 🐍
+name: Generate Cool & Modern Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every midnight (UTC)
-  workflow_dispatch:       # Allows you to manually trigger the workflow
+    - cron: "0 0 * * *"           # Every midnight (UTC)
+  workflow_dispatch:               # Manual trigger
 
 jobs:
   build:
@@ -11,15 +11,32 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake Animation
+      # Run snk to generate SVGs
+      - name: Generate Snake Animation (light & dark themes)
         uses: Platane/snk@v3
         with:
           github_user_name: Nola77
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-modern.svg?palette=github-modern
 
-      - name: Push generated files to output branch
+      # Optionally commit SVGs to main for README badge
+      - name: Add SVG to main branch for README
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git fetch
+          git checkout main
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/snake.svg
+          git add assets/snake.svg
+          git commit -m "Update snake SVG animation"
+          git push
+
+      # Deploy SVGs to output branch for GitHub Pages
+      - name: Push SVGs to output branch (GitHub Pages)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
