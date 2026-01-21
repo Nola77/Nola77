@@ -43,22 +43,6 @@ I'm **Dorji (Nola)**, a passionate frontend developer focused on creating deligh
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,java,spring,mysql,html,css,js,git,github,vscode,postman&theme=dark" alt="Tech Stack Skill Icons" />
 </p>
 
----
-
-## 🛠️ Skills Overview
-
-| **Skill**      | **Proficiency** |
-|:---------------|:--------------:|
-| React          | ⭐⭐⭐⭐⭐ (Advanced)     |
-| Next.js        | ⭐⭐⭐⭐              |
-| TypeScript     | ⭐⭐⭐⭐              |
-| Node.js        | ⭐⭐⭐               |
-| Java           | ⭐⭐⭐               |
-| Spring Boot    | ⭐⭐⭐               |
-| MySQL          | ⭐⭐⭐               |
-
----
-
 ## 🐍 My Contribution Snake
 
 <p align="center">
@@ -88,25 +72,6 @@ I'm **Dorji (Nola)**, a passionate frontend developer focused on creating deligh
   </a>
 </p>
 
----
-
-## 🧩 Fun Facts
-
-- ☕ Coffee fuels my code  
-- 🎧 Beats on loop while coding  
-- 💀 Debugging? Just another boss fight  
-- 🌏 Proudly chasing tech dreams from Bhutan
-
----
-
-## 🏅 Highlights & Achievements
-
-- 🏆 Open source contributor (React, Next.js libraries)
-- 🚀 Built and shipped multiple full-stack web apps
-- 📢 Speaker at local dev meetups
-- 🥇 [Add certificates, courses, or notable works here!]
-
----
 
 ## 💬 Quote I Live By
 
