@@ -1,5 +1,3 @@
-<!-- Nola's Animated GitHub Profile README -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F77D26&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+Dorji+Phuntsho!;aka+Nola+😎;Frontend+Developer+%7C+Coder+%7C+Builder" alt="Typing SVG" />
 </h1>
@@ -32,5 +30,3 @@ I'm **Dorji (Nola)**, a passionate frontend developer focused on creating deligh
 ## 💬 Quote I Live By
 
 > *"Stay humble, code hard, and let your work talk louder than you ever could."* — **Nola 🖤**
-
----
