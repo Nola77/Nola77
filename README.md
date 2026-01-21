@@ -53,25 +53,6 @@ I'm **Dorji (Nola)**, a passionate frontend developer focused on creating deligh
   </picture>
 </p>
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:dorji.nola@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-dorji.nola@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
-  <a href="https://github.com/Nola77" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/dorji-phuntsho-7a4b2123b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="https://www.facebook.com/jordi.nolanjr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook badge" />
-  </a>
-</p>
-
 
 ## 💬 Quote I Live By
 
