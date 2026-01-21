@@ -14,9 +14,6 @@
 
 I'm **Dorji (Nola)**, a passionate frontend developer focused on creating delightful user experiences with the latest technologies. I love bringing ideas to life in the browser, collaborating with inspiring teams, and solving interesting problems.
 
-- 🖥️ **Core strengths:** React, Next.js, TypeScript, modern CSS, Node.js.
-- 🌱 **Currently exploring:** Spring Boot & Java for backend, building full-stack applications.
-
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
