@@ -1,67 +1,67 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=F77D26&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dorji+Phuntsho.;Frontend+Developer+%C2%B7+Builder;Turning+ideas+into+digital+experiences." alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>🇧🇹 Bhutan</strong>
-  &nbsp;·&nbsp;
-  <strong>Frontend Developer</strong>
-  &nbsp;·&nbsp;
-  <strong>Creative Technologist</strong>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Nola77">
-    <img src="https://img.shields.io/github/followers/Nola77?label=Followers&style=flat&color=F77D26" alt="GitHub Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Nola77&label=Profile%20Views&color=F77D26&style=flat" alt="Profile Views" />
-</p>
+# **DORJI PHUNTSHO**
 
----
+### `Frontend Developer · Creative Technologist · Builder`
 
-## About
+**🇧🇹 Bhutan**
 
-I'm **Dorji Phuntsho**, also known as **Nola** — a frontend developer from Bhutan who enjoys turning ideas into thoughtful, modern digital experiences.
+<br/>
 
-I care about more than just making things work. I enjoy exploring the intersection of **design, interaction, performance, and technology** to build products that feel fast, intuitive, and alive.
+> I design and build digital experiences where  
+> **technology, interaction, and imagination meet.**
 
-Currently exploring:
+<br/>
 
-- ⚡ Modern React & Next.js applications
-- 🧠 AI-powered products and agentic experiences
-- 🎨 Generative UI & interactive interfaces
-- 🌐 3D, maps, spatial experiences & WebGL
-- 🚀 Performance-focused frontend architecture
-- 🛠️ Building products from idea → production
+[ **GitHub** ](https://github.com/Nola77) ·
+[ **Projects** ](#selected-work) ·
+[ **Contact** ](#connect)
 
-> **Build things worth using.**
+<br/>
+
+</div>
 
 ---
 
-## Tech I Work With
+## / about
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,nestjs,java,spring,mysql,html,css,tailwind,threejs,git,github,vscode,postman&theme=dark" alt="Technology Stack" />
-</p>
+I'm **Dorji Phuntsho**, also known as **Nola**.
+
+I'm a developer from Bhutan focused on building **modern web experiences, AI-powered products, interactive interfaces, and creative technology**.
+
+I enjoy taking an idea from a rough concept and turning it into something people can actually **see, use, and experience**.
+
+My interests sit somewhere between:
+
+`ENGINEERING` × `DESIGN` × `AI` × `INTERACTION`
+
+<br/>
 
 ---
 
-## What I'm Building
+## / selected work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌏 Digital Experiences
+### 🌏 Digital Platforms
 
-Building modern web platforms with a focus on **performance, interaction, visual storytelling, and usability**.
+Building production-ready platforms with modern frontend architecture, thoughtful UX, and strong performance.
+
+**Next.js · React · TypeScript · NestJS**
 
 </td>
+
 <td width="50%">
 
-### 🤖 AI & Generative UI
+### 🤖 AI Experiences
 
-Exploring how AI can move beyond chat interfaces into **adaptive interfaces, agents, and dynamic experiences**.
+Exploring AI beyond chat — agents, adaptive interfaces, generative UI, voice experiences, and intelligent workflows.
+
+**LLMs · Agents · RAG · Generative UI**
 
 </td>
 </tr>
@@ -69,74 +69,98 @@ Exploring how AI can move beyond chat interfaces into **adaptive interfaces, age
 <tr>
 <td width="50%">
 
-### 🗺️ Maps & Spatial UX
+### 🗺️ Spatial Experiences
 
-Working with maps, routes, terrain, geospatial data, and immersive interfaces to make complex information easier to explore.
+Working with maps, terrain, routes, geospatial data, and immersive interfaces.
+
+**MapLibre · GIS · WebGL · 3D**
 
 </td>
+
 <td width="50%">
 
-### ✨ Creative Technology
+### ✦ Creative Technology
 
-Experimenting with **3D, WebGL, motion, generative experiences, and new interaction patterns**.
+Experimenting with motion, interaction, 3D environments, generative experiences, and unconventional interfaces.
+
+**Three.js · WebGL · React Three Fiber**
 
 </td>
 </tr>
 </table>
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nola77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F77D26&icon_color=F77D26" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nola77&layout=compact&hide_border=true&theme=transparent&title_color=F77D26" height="170" alt="Top Languages" />
-</p>
+<br/>
 
 ---
 
-## Contribution Journey
+## / stack
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,nestjs,java,spring,threejs,mysql,postgres,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
-## Currently Learning
+## / currently exploring
 
 ```text
-AI Engineering        ███████████████████░░   90%
-Generative UI          ██████████████████░░░   85%
-Next.js / React        ███████████████████░░   90%
-3D / WebGL             ███████████████░░░░░   70%
-System Architecture    ████████████████░░░░   75%
+AI Engineering
+Generative UI
+Agentic Systems
+Creative Coding
+3D & WebGL
+Spatial Interfaces
+Frontend Architecture
+Performance Engineering
 ```
 
----
-
-## Philosophy
-
-> *"Stay curious. Build boldly. Keep learning.*
-> *Let the work speak for itself."*
-
-— **Nola**
+<br/>
 
 ---
 
-<p align="center">
-  <sub>Designed & built with curiosity from 🇧🇹 Bhutan</sub>
-</p>
+## / github
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nola77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F77D26&icon_color=F77D26&text_color=888888" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nola77&layout=compact&hide_border=true&theme=transparent&title_color=F77D26&text_color=888888" />
+
+</div>
+
+<br/>
+
+---
+
+## / contribution
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### **BUILD · EXPLORE · ITERATE**
+
+<br/>
+
+I believe the best products come from  
+**curiosity, experimentation, and obsessive attention to detail.**
+
+<br/>
+
+`© Nola · Bhutan`
+
+<br/>
+
+</div>
