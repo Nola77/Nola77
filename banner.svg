@@ -18,6 +18,8 @@
 @keyframes glide{from{transform:translate(0,0)}to{transform:translate(-90px,-14px)}}
 .pen{transform-box:fill-box;transform-origin:50% 0%;animation:flut 2.6s ease-in-out infinite}
 @keyframes flut{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(6deg)}}
+.shoot{animation:shoot 9s linear infinite;opacity:0}
+@keyframes shoot{0%,86%{opacity:0;transform:translate(0,0)}88%{opacity:.9}100%{opacity:0;transform:translate(-170px,70px)}}
 </style>
 <defs>
 <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#070d18"/><stop offset=".5" stop-color="#18223d"/><stop offset=".82" stop-color="#7a3b2e"/><stop offset="1" stop-color="#e5a84b"/></linearGradient>
@@ -29,6 +31,8 @@
 <radialGradient id="moon" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f6ecd2" stop-opacity=".35"/><stop offset="1" stop-color="#f6ecd2" stop-opacity="0"/></radialGradient>
 <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e5a84b"/><stop offset="1" stop-color="#e5a84b" stop-opacity="0"/></linearGradient>
 <filter id="soft" x="-20%" y="-100%" width="140%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+<linearGradient id="nola" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#e9c98f"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e5a84b" stop-opacity="0"/><stop offset=".7" stop-color="#e5a84b" stop-opacity=".35"/><stop offset="1" stop-color="#ffd9a0" stop-opacity=".55"/></linearGradient>
 </defs>
 <rect width="1200" height="400" fill="url(#sky)"/>
 <circle class="tw" cx="517" cy="83" r="0.7" fill="#fff" style="animation-delay:1.0s;animation-duration:4.6s"/>
@@ -92,9 +96,12 @@
 <circle class="tw" cx="865" cy="102" r="0.7" fill="#fff" style="animation-delay:2.7s;animation-duration:4.5s"/>
 <circle class="tw" cx="1109" cy="91" r="1" fill="#fff" style="animation-delay:2.0s;animation-duration:3.5s"/>
 <circle cx="1105" cy="72" r="70" fill="url(#moon)"/><path d="M1110,54 A20,20 0 1 0 1110,90 A30,30 0 0 1 1110,54Z" fill="#f6ecd2"/>
+<g class="shoot"><line x1="880" y1="40" x2="905" y2="26" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/><circle cx="880" cy="40" r="1.8" fill="#fff"/></g>
 <circle cx="950" cy="300" r="170" fill="url(#glow)"/>
+<path d="M0,270 L110,215 L210,250 L330,190 L450,246 L560,214 L690,236 L800,176 L930,230 L1060,196 L1200,236 L1200,400 L0,400Z" fill="#2a3556" opacity=".55"/>
 <path d="M0,290 L90,240 L160,262 L260,238 L330,244 L420,160 L510,232 L600,196 L700,130 L790,214 L880,172 L980,226 L1080,168 L1200,214 L1200,400 L0,400Z" fill="url(#far)"/>
 <path d="M420,160 L446,180 L430,178 L420,190 L410,176 L396,178Z M700,130 L730,154 L714,151 L700,165 L688,150 L672,152Z M1080,168 L1104,186 L1090,184 L1080,194 L1070,182 L1058,184Z" fill="#eef2f6" opacity=".85"/>
+<path d="M0,290 L90,240 L160,262 L260,238 L330,244 L420,160 L510,232 L600,196 L700,130 L790,214 L880,172 L980,226 L1080,168 L1200,214" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
 <path d="M0,330 L120,300 L240,320 L380,284 L520,312 L640,290 L760,306 L840,300 L960,296 L1100,304 L1200,296 L1200,400 L0,400Z" fill="#14213a"/>
 <g class="mist" filter="url(#soft)"><rect x="-80" y="250" width="700" height="46" rx="23" fill="url(#mist)"/><rect x="380" y="282" width="900" height="40" rx="20" fill="url(#mist)"/></g>
 <rect width="1200" height="400" fill="url(#veil)"/>
@@ -124,7 +131,7 @@
 <path d="M915,158 L975,158 L972,140 L918,140Z" fill="#f3ecdd"/>
 <rect x="918" y="140" width="54" height="6" fill="#7c2424"/>
 <path d="M904,142 L986,142 L969,127 L921,127Z" fill="#c9922e"/>
-<rect x="942" y="110" width="6" height="18" fill="#e5a84b"/><circle cx="945" cy="108" r="4" fill="#f2c46b"/>
+<rect x="942" y="110" width="6" height="18" fill="#e5a84b"/><circle cx="810" cy="194" r="2.6" fill="#f2c46b"/><circle cx="1090" cy="194" r="2.6" fill="#f2c46b"/><circle cx="1038" cy="194" r="2.6" fill="#f2c46b"/><circle cx="858" cy="194" r="2.6" fill="#f2c46b"/><circle cx="945" cy="108" r="4" fill="#f2c46b"/>
 <rect class="lamp" x="826" y="268" width="9" height="12" fill="#f2b65a" style="animation-delay:1.1s"/>
 <rect x="852" y="268" width="9" height="12" fill="#2a1a14"/>
 <rect x="878" y="268" width="9" height="12" fill="#2a1a14"/>
@@ -145,6 +152,9 @@
 <rect class="lamp" x="1008" y="296" width="9" height="12" fill="#f2b65a" style="animation-delay:2.7s"/>
 <rect x="1034" y="296" width="9" height="12" fill="#2a1a14"/>
 <rect x="1060" y="296" width="9" height="12" fill="#2a1a14"/>
+<path d="M926,332 L926,300 Q945,284 964,300 L964,332Z" fill="#2a1a14" stroke="#c9922e" stroke-width="2"/>
+<path d="M934,332 L934,303 Q945,293 956,303 L956,332Z" fill="#7c2424"/><line x1="945" y1="296" x2="945" y2="332" stroke="#c9922e" stroke-width="1.5"/>
+<path d="M910,344 L980,344 L972,338 L918,338Z" fill="#d8cfb9"/><path d="M900,350 L990,350 L980,344 L910,344Z" fill="#bfb59d"/>
 <rect x="908" y="196" width="8" height="12" fill="#2a1a14"/>
 <rect class="lamp" x="930" y="196" width="8" height="12" fill="#f2b65a" style="animation-delay:0.9s"/>
 <rect x="952" y="196" width="8" height="12" fill="#2a1a14"/>
@@ -156,12 +166,18 @@
 <path class="pen" d="M789.3,218.4 L797.3,218.4 L793.3,231.4Z" fill="#2e8b57" style="animation-delay:1.0499999999999998s"/>
 <path class="pen" d="M799.7,213.8 L807.7,213.8 L803.7,226.8Z" fill="#e5a84b" style="animation-delay:1.4s"/>
 <g class="bird" fill="none" stroke="#f4f1e8" stroke-opacity=".7" stroke-width="1.6" stroke-linecap="round"><path d="M700,92 q7,-7 14,0 q7,-7 14,0"/><path d="M742,112 q5,-5 10,0 q5,-5 10,0"/><path d="M676,120 q4,-4 8,0 q4,-4 8,0"/></g>
+<g>
+<rect x="584" y="292" width="28" height="9" fill="#efe8d8"/><rect x="584" y="292" width="28" height="2" fill="#7c2424"/>
+<path d="M588,292 Q588,272 598,272 Q608,272 608,292Z" fill="#f3ecdd"/>
+<rect x="592" y="266" width="12" height="7" fill="#efe8d8"/><rect x="592" y="266" width="12" height="2" fill="#7c2424"/>
+<path d="M594,266 L598,252 L602,266Z" fill="#c9922e"/><circle class="lamp" cx="598" cy="250" r="2.6" fill="#f2c46b"/>
+</g>
 <path d="M0,366 L160,350 L330,368 L520,346 L720,370 L900,352 L1080,368 L1200,356 L1200,400 L0,400Z" fill="#0a1424"/>
 <path class="river" d="M0,382 C200,372 340,392 560,380 S900,370 1200,384" stroke="#e5a84b" stroke-opacity=".35" stroke-width="2" fill="none" stroke-dasharray="40 20"/>
 <rect y="390" width="1200" height="10" fill="url(#kira)"/>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
 <text x="72" y="118" font-size="14" fill="#e5a84b" letter-spacing="4">KUZUZANGPO LA</text>
-<text x="72" y="200" font-size="88" font-weight="700" fill="#f4f1e8" letter-spacing="16">NOLA</text>
+<text x="72" y="200" font-size="88" font-weight="700" fill="url(#nola)" letter-spacing="16">NOLA</text>
 <rect x="74" y="213" width="120" height="2" fill="url(#gold)"/>
 <text x="72" y="74" font-size="11" fill="#8fa0c0" letter-spacing="3">THIMPHU · 27.47°N 89.64°E</text>
 <text x="74" y="238" font-size="20" fill="#f4f1e8" letter-spacing="6">DORJI PHUNTSHO</text>
