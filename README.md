@@ -93,13 +93,6 @@ This is what makes a profile feel like a person. Uncomment when ready.
 
 ---
 
-## 📿 On GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nola77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=E5A84B&icon_color=E5A84B&text_color=888888" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nola77&layout=compact&hide_border=true&theme=transparent&title_color=E5A84B&text_color=888888" height="165" alt="Top languages">
-</p>
-
 ## 🐍 Contribution trail
 
 <picture>

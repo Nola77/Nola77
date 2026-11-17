@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *" # daily, 00:00 UTC (06:00 in Thimphu)
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+      - README.md
 
 permissions:
   contents: write
