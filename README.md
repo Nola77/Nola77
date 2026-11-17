@@ -1,22 +1,22 @@
-<div align="center">
+ <div align="center">
 
-<br><br>
+<img src="assets/nola-bhutan-banner.png" width="100%" alt="Nola — Building from the Himalayas" />
 
-# `NOLA`
+<br/>
 
-### **DORJI PHUNTSHO**
+# N O L A
 
-**Frontend Developer · Creative Technologist · Builder**
+### DORJI PHUNTSHO
 
-<br>
+**Frontend Developer · Creative Technologist · AI Builder**
 
-🇧🇹 **Bhutan**
+🇧🇹 **BHUTAN · THE HIMALAYAS**
 
-<br><br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=F77D26&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Exploring+AI+%2B+creative+technology.;Turning+ideas+into+things+people+can+feel." alt="Typing introduction" />
+*Building digital experiences from the heart of the Himalayas.*
 
-<br><br>
+[GitHub](https://github.com/Nola77) · **Stay curious. Build boldly.**
 
 </div>
 
@@ -24,181 +24,98 @@
 
 <div align="center">
 
-### `01 — INTRODUCTION`
+### 01 — A LITTLE ABOUT ME
 
 </div>
 
-<br>
+I'm **Dorji Phuntsho**, known online as **Nola** — a developer from the Kingdom of Bhutan.
 
-I’m **Dorji Phuntsho**, known online as **Nola** — a developer from Bhutan building at the intersection of **software, design, AI, and interaction**.
+I build at the intersection of **engineering, design, artificial intelligence and creative technology**.
 
-I like making things that don't just *work*.
+I enjoy turning ambitious ideas into digital experiences — from modern web applications and intelligent systems to interactive maps, 3D environments and experimental interfaces.
 
-I want them to **feel good to use**.
+For me, software isn't only about solving problems.
 
-From highly interactive web interfaces to AI systems, maps, 3D experiences, and experimental products — I'm interested in the space where engineering becomes an experience.
-
-<br>
+It's about creating something meaningful, thoughtful and enjoyable to experience.
 
 <div align="center">
 
-**CODE** &nbsp; × &nbsp; **DESIGN** &nbsp; × &nbsp; **AI** &nbsp; × &nbsp; **EXPERIENCE**
+**CODE** &nbsp; × &nbsp; **DESIGN** &nbsp; × &nbsp; **AI** &nbsp; × &nbsp; **IMAGINATION**
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### `02 — WHAT I BUILD`
+### 02 — WHAT I CREATE
+
+*Four areas that drive my curiosity.*
 
 </div>
-
-<br>
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 01 / DIGITAL PRODUCTS
+### 01 / DIGITAL EXPERIENCES
 
-I build modern web platforms with a strong focus on **architecture, performance, interaction, and usability**.
+Designing and engineering modern digital products with attention to architecture, performance and usability.
 
-<br>
-
-`Next.js`  
-`React`  
-`TypeScript`  
-`NestJS`
+`Next.js` `React` `TypeScript` `NestJS`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 02 / AI EXPERIENCES
+### 02 / INTELLIGENT SYSTEMS
 
-Exploring what happens when AI becomes part of the **interface itself**, rather than simply another chat window.
+Exploring AI agents, LLMs, retrieval systems and interfaces where intelligence becomes part of the experience.
 
-<br>
-
-`Agents`  
-`LLMs`  
-`RAG`  
-`Generative UI`
+`AI Agents` `LLMs` `RAG` `Generative UI`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 03 / SPATIAL COMPUTING
+### 03 / SPATIAL EXPERIENCES
 
-Building experiences around **maps, terrain, routes, location, and spatial information**.
+Connecting digital experiences with real-world geography, terrain, location and immersive environments.
 
-<br>
-
-`MapLibre`  
-`GIS`  
-`WebGL`  
-`3D`
+`GIS` `MapLibre` `WebGL` `3D`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 04 / CREATIVE TECHNOLOGY
 
-Experimenting with **motion, 3D, generative visuals, interaction, and unconventional interfaces**.
+Experimenting with interactive visuals, motion, procedural graphics and unconventional web experiences.
 
-<br>
-
-`Three.js`  
-`React Three Fiber`  
-`WebGL`  
-`Motion`
+`Three.js` `R3F` `WebGL` `Motion`
 
 </td>
-
 </tr>
 </table>
 
-<br>
-
 ---
 
 <div align="center">
 
-### `03 — THE STACK`
+### 03 — TECHNOLOGY
 
-<br>
+*Tools I use to turn ideas into reality.*
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,nestjs,threejs,java,spring,postgres,mysql,git,github,vscode&theme=dark" />
+<br/>
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,nestjs,threejs,java,spring,postgres,mysql,git,github,vscode&theme=dark" alt="Technology stack" />
 
-`React` · `Next.js` · `TypeScript` · `Node.js` · `NestJS` · `Three.js`  
-`PostgreSQL` · `MySQL` · `Java` · `Spring` · `Tailwind` · `Git`
+<br/><br/>
 
-</div>
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS`
 
-<br>
+`Node.js` · `NestJS` · `Three.js` · `Java` · `Spring`
 
----
-
-<div align="center">
-
-### `04 — CURRENTLY EXPLORING`
-
-</div>
-
-<br>
-
-```text
-AI ENGINEERING              ████████████████████
-AGENTIC SYSTEMS             ███████████████████░
-GENERATIVE UI               ██████████████████░░
-FRONTEND ARCHITECTURE       ████████████████████
-CREATIVE CODING             ████████████████░░░░
-3D / WEBGL                  ███████████████░░░░░
-SPATIAL INTERFACES          ██████████████░░░░░░
-PERFORMANCE                 ███████████████████░
-```
-
-<br>
-
----
-
-<div align="center">
-
-### `05 — GITHUB`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nola77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F77D26&icon_color=F77D26&text_color=888888" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nola77&layout=compact&hide_border=true&theme=transparent&title_color=F77D26&text_color=888888" height="165" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `06 — CONTRIBUTION SIGNAL`
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake-dark.svg" width="92%" />
-
-<br><br>
+`PostgreSQL` · `MySQL` · `Git` · `GitHub`
 
 </div>
 
@@ -206,23 +123,36 @@ PERFORMANCE                 █████████████████�
 
 <div align="center">
 
-### `07 — THE PHILOSOPHY`
+### 04 — CURRENTLY EXPLORING
 
-<br>
+*Learning never stops.*
 
-# **MAKE IT SIMPLE.**
-# **MAKE IT BEAUTIFUL.**
-# **MAKE IT MATTER.**
+</div>
 
-<br>
+- Artificial Intelligence Engineering
+- Agentic AI and multi-agent architectures
+- Generative UI and adaptive interfaces
+- Advanced frontend architecture
+- Creative coding and procedural visuals
+- Real-time 3D and WebGL
+- Spatial computing and geospatial systems
+- Performance engineering
 
-*"Stay curious. Build boldly. Let the work speak."*
+---
 
-<br>
+<div align="center">
 
-— **Nola**
+### 05 — GITHUB ACTIVITY
 
-<br><br>
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nola77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=E8A34A&icon_color=E8A34A&text_color=999999" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nola77&layout=compact&hide_border=true&theme=transparent&title_color=E8A34A&text_color=999999" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nola77&hide_border=true&theme=transparent&ring=E8A34A&fire=E8A34A&currStreakLabel=E8A34A" alt="GitHub contribution streak" />
 
 </div>
 
@@ -230,22 +160,66 @@ PERFORMANCE                 █████████████████�
 
 <div align="center">
 
-```text
-NOLA / DORJI PHUNTSHO
-BHUTAN · 27°N
+### 06 — CONTRIBUTION JOURNEY
 
-BUILDING FROM THE HIMALAYAS
-FOR THE DIGITAL WORLD
-```
+*Every contribution is a small step forward.*
 
-<br>
+<br/>
 
-**[ GitHub ](https://github.com/Nola77)**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Nola77/Nola77/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</picture>
 
-<br>
+</div>
 
-<sub>© 2026 Nola · Crafted with curiosity.</sub>
+---
 
-<br><br>
+<div align="center">
+
+### 07 — A LITTLE PHILOSOPHY
+
+<br/>
+
+# MAKE IT SIMPLE.
+
+# MAKE IT BEAUTIFUL.
+
+# MAKE IT MATTER.
+
+<br/>
+
+*Stay curious. Build boldly. Let the work speak.*
+
+<br/>
+
+**— Nola**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/nola-bhutan-banner.png" width="100%" alt="Himalayan mountains of Bhutan" />
+
+<br/><br/>
+
+### NOLA / DORJI PHUNTSHO
+
+🇧🇹 **BHUTAN · 27°N**
+
+**BUILDING FROM THE HIMALAYAS**
+
+**FOR THE DIGITAL WORLD**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nola77-181717?style=flat-square&logo=github)](https://github.com/Nola77)
+
+<br/>
+
+<sub>© 2026 Nola · Made with curiosity and a little Himalayan inspiration.</sub>
 
 </div>
