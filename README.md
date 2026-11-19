@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>ཀུ་ཟུ་ཟང་པོ། &nbsp;·&nbsp; Kuzuzangpo la</b>
+  <b>སྐུ་གཟུགས་བཟང་པོ། &nbsp;·&nbsp; Kuzuzangpo la</b>
 </p>
 
 <p align="center">
